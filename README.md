@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Diogo Kobayashi</h1>
-<h3>A passionate Python developer from Brazil</h3>
+Hi 👋, I'm Diogo Kobayashi
+A passionate Python developer from Brazil
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
