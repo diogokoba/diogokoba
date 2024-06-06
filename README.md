@@ -32,14 +32,14 @@ Desenvolvimento de um sistema de recomendação utilizando técnicas de machine 
 - **LinkedIn**: [Diogo Kobayashi](https://www.linkedin.com/in/diogo-kobayashi-a9a255189/)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diogo-kobayashi&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-kobayashi&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diogokoba&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=diogokoba&layout=compact&theme=radical)
 
 ## Contribuições Recentes
-![Contribuições Recentes](https://activity-graph.herokuapp.com/graph?username=diogo-kobayashi&theme=react-dark&hide_border=true&area=true)
+![Contribuições Recentes](https://activity-graph.herokuapp.com/graph?username=diogokoba&theme=react-dark&hide_border=true&area=true)
 
 ## Repositórios Destacados
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogo-kobayashi&repo=projeto1&theme=radical)](https://github.com/diogo-kobayashi/projeto1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogo-kobayashi&repo=projeto2&theme=radical)](https://github.com/diogo-kobayashi/projeto2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogo-kobayashi&repo=projeto3&theme=radical)](https://github.com/diogo-kobayashi/projeto3)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogokoba&repo=projeto1&theme=radical)](https://github.com/diogokoba/projeto1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogokoba&repo=projeto2&theme=radical)](https://github.com/diogokoba/projeto2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogokoba&repo=projeto3&theme=radical)](https://github.com/diogokoba/projeto3)
 
