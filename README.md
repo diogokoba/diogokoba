@@ -4,6 +4,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-00A896?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## Sobre Mim
 Sou um analista pleno na **Cogna Educação**, brasileiro de 27 anos. Tenho uma sólida formação em Análise e Desenvolvimento de Sistemas e atualmente estou cursando um MBA em Inteligência Artificial e Big Data. Apaixonado por transformar dados em insights acionáveis e automatizar processos para aumentar a produtividade.
