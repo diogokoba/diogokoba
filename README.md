@@ -43,6 +43,3 @@ Desenvolvimento de um sistema de recomendação utilizando técnicas de machine 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogo-kobayashi&repo=projeto2&theme=radical)](https://github.com/diogo-kobayashi/projeto2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogo-kobayashi&repo=projeto3&theme=radical)](https://github.com/diogo-kobayashi/projeto3)
 
----
-
-Espero que este README personalizado ajude a destacar suas habilidades e projetos no GitHub. Sinta-se à vontade para ajustar qualquer parte conforme necessário. Boa sorte com seu perfil e seus projetos! 🚀
